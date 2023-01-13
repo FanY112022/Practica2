@@ -1,2 +1,2 @@
-# Practica2
-practica 2 de tipologia y ciclo de vida de los datos
+# Practica 2
+Práctica 2 de Tipología y ciclo de vida de los datos
